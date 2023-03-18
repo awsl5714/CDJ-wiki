@@ -1,4 +1,4 @@
-# variance(方差) ![image](https://user-images.githubusercontent.com/70088813/226083641-747d4f70-7637-4a40-8438-b25328943b83.png)
+# variance(方差) ![image](https://user-images.githubusercontent.com/70088813/226083684-6fc4578d-215a-4803-940e-952349992ab6.png)
 
 各点到函数内特定某点，使得各点到函数内各点距离平方的均值达到最小（求导可知该点为均值点），用来描述各数据点的波动性和稳定性
 ## 为什么不用距离平方均值来表示？
